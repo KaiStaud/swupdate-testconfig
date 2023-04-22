@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -e
+
+cp debian/configs/defconfig configs/debian_defconfig
+make debian_defconfig
+make acceptance-tests

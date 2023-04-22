@@ -1,0 +1,5 @@
+usr/bin/swupdate
+usr/bin/swupdate-client
+usr/bin/swupdate-ipc
+usr/bin/swupdate-progress
+debian/swupdate.sh /usr/lib/swupdate
