@@ -1,3 +1,2 @@
-version=4
-opts=mode=git,pgpmode=gittag,repacksuffix=+dfsg,dversionmangle=auto \
-  https://github.com/sbabic/swupdate.git refs/tags/([\d\.]+)
+# You must remove unused comment lines for the released package.
+version=3

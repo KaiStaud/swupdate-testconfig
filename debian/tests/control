@@ -1,3 +1,0 @@
-Tests: testsuite
-Depends: @builddeps@, libubootenv-dev, cpio, wget
-Restrictions: allow-stderr

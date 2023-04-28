@@ -1,3 +1,1 @@
-Link-config-to-swupdate-www-path.diff
-Replace-Font-Awesome-5-with-Fork-Awesome.diff
-use-gcc-compiler.diff
+# You must remove unused comment lines for the released package.
