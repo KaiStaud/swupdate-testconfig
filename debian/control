@@ -1,7 +1,7 @@
 Source: swupdate-debian
 Section: embedded
 Priority: optional
-Maintainer: Lachmann & Rink GmbH
+Maintainer: Kai Staud
 Build-Depends: debhelper-compat (= 11),
                dh-lua:native <!nolua>,
                graphviz <!nodoc>,
