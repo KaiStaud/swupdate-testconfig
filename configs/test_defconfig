@@ -22,8 +22,8 @@ CONFIG_SW_VERSIONS_FILE="/etc/sw-versions"
 #
 # Socket Paths
 #
-CONFIG_SOCKET_CTRL_PATH="/tmp/sockinstctrl"
-CONFIG_SOCKET_PROGRESS_PATH="/tmp/swupdateprog"
+CONFIG_SOCKET_CTRL_PATH=""
+CONFIG_SOCKET_PROGRESS_PATH=""
 CONFIG_MTD=y
 # CONFIG_LUA is not set
 # CONFIG_FEATURE_SYSLOG is not set
@@ -111,7 +111,7 @@ CONFIG_PARSERROOT=""
 # CONFIG_DELTA is not set
 # CONFIG_DISKPART is not set
 # CONFIG_DISKFORMAT_HANDLER is not set
-CONFIG_RAW=y
+# CONFIG_RAW is not set
 # CONFIG_RDIFFHANDLER is not set
 # CONFIG_READBACKHANDLER is not set
 # CONFIG_REMOTE_HANDLER is not set
@@ -121,5 +121,3 @@ CONFIG_RAW=y
 # CONFIG_UBIVOL is not set
 # CONFIG_UCFWHANDLER is not set
 # CONFIG_UNIQUEUUID is not set
-
-
